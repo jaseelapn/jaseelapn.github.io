@@ -1,6 +1,6 @@
 ---
 title: Test
-date: 2023-12-25 17:46:00
+date: 2023-12-25 17:46:00 +0800
 categories: [Test, Test Post]
 tags: [test]     # TAG names should always be lowercase
 ---
