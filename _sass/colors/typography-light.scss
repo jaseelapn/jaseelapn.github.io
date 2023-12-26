@@ -10,7 +10,7 @@
 
   /* Common color */
   --text-color: #110E38;
-  --text-muted-color: #757575;
+  --text-muted-color: #110E38;
   --text-muted-hightlight-color: inherit;
   --heading-color: #2a2a2a;
   --label-color: #585858;
@@ -38,20 +38,20 @@
   );
 
   /* Sidebar */
-  --site-title-color: rgb(113, 113, 113);
+  --site-title-color: #110E38;
   --site-subtitle-color: #717171;
   --sidebar-bg: #f2f6ff;
-  --sidebar-border-color: #000000;
-  --sidebar-muted-color: #545454;
-  --sidebar-active-color: #1d1d1d;
-  --sidebar-hover-bg: rgb(223, 233, 241, 0.64);
+  --sidebar-border-color: #f2f6ff;
+  --sidebar-muted-color: #110E38;
+  --sidebar-active-color: #1F9BAC;
+  --sidebar-hover-bg: rgb(255, 255, 255, 0.64);
   --sidebar-btn-bg: white;
   --sidebar-btn-color: #8e8e8e;
   --avatar-border-color: white;
 
   /* Topbar */
-  --topbar-bg: rgb(255, 255, 255, 0.7);
-  --topbar-text-color: rgb(78, 78, 78);
+  --topbar-bg: #f2f6ff;
+  --topbar-text-color: #110E38;
   --search-border-color: rgb(240, 240, 240);
   --search-icon-color: #c2c6cc;
   --input-focus-border-color: #b8b8b8;
