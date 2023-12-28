@@ -1,0 +1,1 @@
+Everyday I lose bits and pieces of me. Pieces that took me years to built. Now I no longer know who I am or what I used to be. I can only feel traces of who I’m forced to be.
