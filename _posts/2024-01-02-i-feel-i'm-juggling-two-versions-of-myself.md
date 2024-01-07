@@ -1,5 +1,5 @@
 ---
-title: Text and Typography
+title: I feel like i’m juggling two versions of myself
 author: jechupn
 date: 2024-01-02 11:33:00 +0800
 categories: [Random]
